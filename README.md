@@ -1,4 +1,4 @@
-### Welcome to Nano's Github Page
+# Nano's Github Page
 
 Contact: contact@nanomotions.org
 
