@@ -2,6 +2,6 @@
 
 Contact: contact@nanomotions.org
 
-Working on:        \
+Currently working on:        \
 kaweepatinn1.github.io ([Website](https://nanomotions.org))        \
 SimpleRhythmGame (school project)
